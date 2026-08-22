@@ -5,6 +5,7 @@
   "phone": "",
   "phoneRaw": "",
   "phonePending": true,
+  "contactName": "",
   "email": "info@texasallsheds.com",
   "emails": {
     "info": "info@texasallsheds.com",
@@ -12,10 +13,10 @@
     "quotes": "quotes@texasallsheds.com"
   },
   "address": {
-    "street": "360 PR 1031",
-    "city": "Marshall",
-    "region": "TX",
-    "postal": "75672",
+    "street": "",
+    "city": "",
+    "region": "",
+    "postal": "",
     "country": "USA"
   },
   "hours": "Mon–Fri 8:00am–6:00pm",
@@ -34,6 +35,9 @@
     "siteId": "",
     "theme": "dark",
     "floorCpm": "",
-    "excludePaths": ["/quote/", "/contact/"]
+    "excludePaths": [
+      "/quote/",
+      "/contact/"
+    ]
   }
 }
