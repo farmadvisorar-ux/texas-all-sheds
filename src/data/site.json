@@ -1,0 +1,39 @@
+{
+  "name": "Texas All Sheds",
+  "tagline": "From Backyard Sheds to Clear-Span Steel",
+  "description": "Independent dealer of wood portable buildings and engineered steel kits — sheds, barns, garages, workshops, barndominiums and commercial spans.",
+  "phone": "",
+  "phoneRaw": "",
+  "phonePending": true,
+  "email": "info@texasallsheds.com",
+  "emails": {
+    "info": "info@texasallsheds.com",
+    "sales": "sales@texasallsheds.com",
+    "quotes": "quotes@texasallsheds.com"
+  },
+  "address": {
+    "street": "360 PR 1031",
+    "city": "Marshall",
+    "region": "TX",
+    "postal": "75672",
+    "country": "USA"
+  },
+  "hours": "Mon–Fri 8:00am–6:00pm",
+  "social": {
+    "facebook": "",
+    "instagram": "",
+    "youtube": ""
+  },
+  "dealerNotice": "Texas All Sheds is an independent authorized dealer. The buildings we sell are made by our manufacturing partners and ship direct from the plant nearest the jobsite. Steel kits ship nationwide and are bolted together on site; wood portable buildings arrive finished inside our regional delivery area.",
+  "indexable": false,
+  "emailPending": true,
+  "formEndpoint": "",
+  "ads": {
+    "enabled": false,
+    "provider": "",
+    "siteId": "",
+    "theme": "dark",
+    "floorCpm": "",
+    "excludePaths": ["/quote/", "/contact/"]
+  }
+}
